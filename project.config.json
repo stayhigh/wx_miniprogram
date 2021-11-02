@@ -1,5 +1,6 @@
 {
-	"description": "项目配置文件。",
+	"client": "./wxtodo-client",
+	"qcloudRoot": "./wxtodo-server",
 	"setting": {
 		"urlCheck": true,
 		"es6": false,
@@ -7,22 +8,7 @@
 		"minified": true,
 		"newFeature": true
 	},
-	"compileType": "miniprogram",
-	"libVersion": "1.9.91",
-	"appid": "your app id",
+	"appid": "wx5cca3324853d7303",
 	"projectname": "wxtodo",
-	"condition": {
-		"search": {
-			"current": -1,
-			"list": []
-		},
-		"conversation": {
-			"current": -1,
-			"list": []
-		},
-		"miniprogram": {
-			"current": -1,
-			"list": []
-		}
-	}
+	"condition": {}
 }
