@@ -1,0 +1,6 @@
+[submodule "wxtodo-server"]
+	path = wxtodo-server
+	url = https://github.com/stayhigh/wxtodo-server
+[submodule "wxtodo-client"]
+	path = wxtodo-client
+	url = https://github.com/stayhigh/wxtodo-client
